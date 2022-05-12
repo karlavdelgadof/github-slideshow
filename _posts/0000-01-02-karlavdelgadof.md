@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"What is a beef steak...if not a cow persevering"
 Use the left arrow to go back!
